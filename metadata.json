@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Compost & Vermiculture Companion",
+  "description": "A comprehensive guide to composting and worm farming featuring an AI-powered encyclopedia with Google Search grounding, visual diagnostics for identifying pests and problems using computer vision, video process analysis, and a curated marketplace.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
